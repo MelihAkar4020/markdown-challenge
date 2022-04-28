@@ -17,9 +17,10 @@
 
 ### Hobbies
 
- * Sport
+* Sport
     * Boxe
     * COurse à pied
+* Cuisine   
 * ANime/MAnga
 * CSGO
 * Lecture
