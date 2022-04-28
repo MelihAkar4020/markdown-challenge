@@ -9,3 +9,10 @@
 | COuleur préférée | Vert |
 | PLat préféré | Riz |
 | Ananas sur la pizza ? | [ ] OUI [X] NON |
+
+| <!-- -->    | <!-- -->    |
+|-------------|-------------|
+| Foo         | Bar         |
+
+Ok
+SAlut
