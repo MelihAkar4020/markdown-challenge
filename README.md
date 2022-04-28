@@ -3,7 +3,7 @@
 
 ![Akar Melih](/image/moi.jpg "Titre de l'image")
 
-### Je suis quelqu'un de très motivé et extravertie.
+### Je suis quelqu'un de très motivé et surtout qui rigole toujours.
 
 
 
