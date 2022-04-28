@@ -26,5 +26,5 @@
 
 [<< Précédent][1] || AKAR MELIH || [Suivant>>][2]
 
-[1]:
-[2]:
+[1]:https://github.com/VOOSsebastien/markdown-challenge
+[2]:https://github.com/allaseau/markdown-challenge
