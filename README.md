@@ -13,3 +13,18 @@
 | __COuleur préférée__      | Vert            |
 | __PLat préféré__          | Riz             |
 | __Ananas sur la pizza ?__ | <ul><li>[ ] OUI</li> <li>[X] NON </li></lu>|
+
+
+### Hobbies
+
+ * Sport
+    * Boxe
+    * COurse à pied
+* ANime/MAnga
+* CSGO
+* Lecture
+
+[<< Précédent][1] || AKAR MELIH || [Suivant>>][2]
+
+[1]:
+[2]:
