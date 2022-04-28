@@ -23,4 +23,5 @@ SAlut
 | __COuleur préférée__      | Vert            |
 | __PLat préféré__          | Riz             |
 | __Ananas sur la pizza ?__ | [ ] OUI [X] NON |
-facile
+facile|ok
+jeu |ok
