@@ -19,9 +19,9 @@
 
 * Sport
     * Boxe
-    * COurse à pied
+    * Course à pied
 * Cuisine   
-* ANime/MAnga
+* Anime/Manga
 * CSGO
 * Lecture
 
