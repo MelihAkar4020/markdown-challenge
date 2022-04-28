@@ -26,8 +26,7 @@
 * Lecture
 
 ### Vous pouvez compter sur moi pour...
-Vous aider pour n'importe quoi
-VOus remotiver à tout moment !
+Vous aider pour n'importe quoi et vous remotiver à tout moment !
 
 
 
