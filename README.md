@@ -4,10 +4,10 @@
 ![Akar Melih](/image/moi.jpg "Titre de l'image")
 
 ### Je suis quelqu'un de très motivé et extravertie.
-|-------------|--------|
-| Date d'anniversaire| 12/04/2000 |
-| COuleur préférée | Vert |
-| PLat préféré | Riz |
+|-------------          |--------         |
+| Date d'anniversaire   | 12/04/2000      |
+| COuleur préférée      | Vert            |
+| PLat préféré          | Riz             |
 | Ananas sur la pizza ? | [ ] OUI [X] NON |
 
 | <!-- -->    | <!-- -->    |
@@ -16,3 +16,10 @@
 
 Ok
 SAlut
+
+|   |   |
+|---|---|
+|__Bold Key__| Value1 |
+| Normal Key | Value2 |
+
+facile
