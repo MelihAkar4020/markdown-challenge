@@ -25,6 +25,12 @@
 * CSGO
 * Lecture
 
+### Vous pouvez compter sur moi pour...
+Vous aider pour n'importe quoi
+VOus remotiver à tout moment !
+
+
+
 [<< Précédent][1] || AKAR MELIH || [Suivant>>][2]
 
 [1]:https://github.com/VOOSsebastien/markdown-challenge
