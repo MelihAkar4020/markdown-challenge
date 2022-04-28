@@ -30,7 +30,7 @@ Vous aider pour n'importe quoi et vous remotiver à tout moment !
 
 
 
-[<< Précédent][1] || AKAR MELIH || [Suivant>>][2]
+<div style="text-align: center"> [<< Précédent][1] || AKAR MELIH || [Suivant>>][2] </div>
 
 [1]:https://github.com/VOOSsebastien/markdown-challenge
 [2]:https://github.com/allaseau/markdown-challenge
