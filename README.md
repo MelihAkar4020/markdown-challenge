@@ -19,7 +19,8 @@ SAlut
 
 |   |   |
 |---|---|
-|__Bold Key__| Value1 |
-| Normal Key | Value2 |
-
+|__Date d'anniversaire__    | 12/04/2000      |
+| __COuleur préférée__      | Vert            |
+| __PLat préféré__          | Riz             |
+| __Ananas sur la pizza ?__ | [ ] OUI [X] NON |
 facile
